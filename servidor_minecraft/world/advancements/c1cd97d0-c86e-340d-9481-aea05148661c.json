@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "fossil:fossil/dino_egg": {
+    "criteria": {
+      "dna": "2025-01-01 23:27:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log2": "2025-01-01 20:53:45 +0000"
@@ -270,6 +276,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-01-01 21:29:45 +0000"
+    },
+    "done": true
+  },
+  "fossil:fossil/dinopedia": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-01 23:27:29 +0000"
     },
     "done": true
   },
@@ -1097,6 +1109,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2025-01-01 20:51:01 +0000"
+    },
+    "done": true
+  },
+  "fossil:fossil/tyrannosaurus": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-01 23:27:18 +0000"
     },
     "done": true
   },

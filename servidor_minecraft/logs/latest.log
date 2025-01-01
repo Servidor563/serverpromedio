@@ -1282,3 +1282,20 @@
 [23:27:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KiritoUchiha999 has made the advancement [The King]
 [23:27:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KiritoUchiha999 has made the advancement [Eggs!]
 [23:27:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KiritoUchiha999 has made the advancement [Read all about it!]
+[23:27:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Set own game mode to Survival Mode]
+[23:27:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Given [Iron Ore] * 1 to lugoflen]
+[23:27:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Given [Iron Ore] * 64 to lugoflen]
+[23:28:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Given [Iron Pickaxe] * 1 to lugoflen]
+[23:28:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Given [Enchanted Book] * 1 to lugoflen]
+[23:29:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Set own game mode to Creative Mode]
+[23:29:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Set own game mode to Survival Mode]
+[23:29:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goku has made the advancement [Read all about it!]
+[23:30:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Set own game mode to Creative Mode]
+[23:30:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KiritoUchiha999: Set the time to 1000]
+[23:32:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Teleported KiritoUchiha999 to goku]
+[23:32:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KiritoUchiha999 lost connection: Disconnected
+[23:32:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KiritoUchiha999 left the game
+[23:32:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Teleported goku to lugoflen]
+[23:34:49] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: lugoflen lost connection: Disconnected
+[23:34:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lugoflen left the game
+[23:35:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goku has made the advancement [Hot Stuff]

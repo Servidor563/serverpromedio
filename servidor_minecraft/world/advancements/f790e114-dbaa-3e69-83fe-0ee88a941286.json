@@ -422,6 +422,12 @@
     },
     "done": true
   },
+  "fossil:fossil/dinopedia": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-01 23:29:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 22:11:40 +0000"
@@ -727,6 +733,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 22:11:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-01-01 23:35:51 +0000"
     },
     "done": true
   },
