@@ -20432,3 +20432,119 @@
 
 [22:06:28] [Server thread/DEBUG] [FML]: The world 2092ba0d (world) may have leaked: seen 480 times.
 
+[22:06:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:07:18] [Server thread/DEBUG] [FML]: The world 6f4df35b (world) may have leaked: seen 485 times.
+
+[22:07:18] [Server thread/DEBUG] [FML]: The world 2639ec52 (world) may have leaked: seen 485 times.
+
+[22:07:18] [Server thread/DEBUG] [FML]: The world 2092ba0d (world) may have leaked: seen 485 times.
+
+[22:07:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:08:08] [Server thread/DEBUG] [FML]: The world 6f4df35b (world) may have leaked: seen 490 times.
+
+[22:08:08] [Server thread/DEBUG] [FML]: The world 2639ec52 (world) may have leaked: seen 490 times.
+
+[22:08:08] [Server thread/DEBUG] [FML]: The world 2092ba0d (world) may have leaked: seen 490 times.
+
+[22:08:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:08:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Given [Iron Axe] * 1 to lugoflen]
+[22:08:58] [Server thread/DEBUG] [FML]: The world 6f4df35b (world) may have leaked: seen 495 times.
+
+[22:08:58] [Server thread/DEBUG] [FML]: The world 2639ec52 (world) may have leaked: seen 495 times.
+
+[22:08:58] [Server thread/DEBUG] [FML]: The world 2092ba0d (world) may have leaked: seen 495 times.
+
+[22:08:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:09:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Given [Iron Sword] * 1 to lugoflen]
+[22:09:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Given [Iron Chestplate] * 1 to lugoflen]
+[22:09:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Given [Iron Helmet] * 1 to lugoflen]
+[22:09:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KiritoUchiha999 has made the advancement [Digging Deep]
+[22:09:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:09:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KiritoUchiha999 fell from a high place
+[22:09:44] [Server thread/INFO] [tombstone]: The last known grave of KiritoUchiha999 is at location [name:Last Grave, x:112451, y:19, z:113369] in the dimension 0
+[22:09:44] [Server thread/INFO] [tombstone]: KiritoUchiha999 has successfully been saved
+[22:09:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Given [Oak Wood Planks] * 64 to lugoflen]
+[22:09:48] [Server thread/DEBUG] [FML]: The world 6f4df35b (world) may have leaked: seen 500 times.
+
+[22:09:48] [Server thread/DEBUG] [FML]: The world 2639ec52 (world) may have leaked: seen 500 times.
+
+[22:09:48] [Server thread/DEBUG] [FML]: The world 2092ba0d (world) may have leaked: seen 500 times.
+
+[22:10:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:10:36] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[22:10:36] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[22:10:36] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[22:10:38] [Server thread/DEBUG] [FML]: The world 6f4df35b (world) may have leaked: seen 505 times.
+
+[22:10:38] [Server thread/DEBUG] [FML]: The world 2639ec52 (world) may have leaked: seen 505 times.
+
+[22:10:38] [Server thread/DEBUG] [FML]: The world 2092ba0d (world) may have leaked: seen 505 times.
+
+[22:10:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Teleported KiritoUchiha999 to lugoflen]
+[22:11:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Given [Iron Pickaxe] * 1 to lugoflen]
+[22:11:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KiritoUchiha999 has made the advancement [Knowledge of Death]
+[22:11:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KiritoUchiha999 has reached the goal [Here They Come]
+[22:11:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KiritoUchiha999 has made the advancement [Knowledge raises the soul]
+[22:11:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KiritoUchiha999 has made the advancement [A Strange Grave's Dust]
+[22:11:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:11:28] [Server thread/DEBUG] [FML]: The world 6f4df35b (world) may have leaked: seen 510 times.
+
+[22:11:28] [Server thread/DEBUG] [FML]: The world 2639ec52 (world) may have leaked: seen 510 times.
+
+[22:11:28] [Server thread/DEBUG] [FML]: The world 2092ba0d (world) may have leaked: seen 510 times.
+
+[22:11:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goku has made the advancement [Acquire Hardware]
+[22:11:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goku has made the advancement [Isn't It Iron Pick]
+[22:11:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:12:18] [Server thread/DEBUG] [FML]: The world 6f4df35b (world) may have leaked: seen 515 times.
+
+[22:12:18] [Server thread/DEBUG] [FML]: The world 2639ec52 (world) may have leaked: seen 515 times.
+
+[22:12:18] [Server thread/DEBUG] [FML]: The world 2092ba0d (world) may have leaked: seen 515 times.
+
+[22:12:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:13:08] [Server thread/DEBUG] [FML]: The world 6f4df35b (world) may have leaked: seen 520 times.
+
+[22:13:08] [Server thread/DEBUG] [FML]: The world 2639ec52 (world) may have leaked: seen 520 times.
+
+[22:13:08] [Server thread/DEBUG] [FML]: The world 2092ba0d (world) may have leaked: seen 520 times.
+
+[22:13:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:13:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Given [Torch] * 1 to lugoflen]
+[22:13:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lugoflen was slain by Zombie
+[22:13:54] [Server thread/INFO] [tombstone]: The last known grave of lugoflen is at location [name:Last Grave, x:112433, y:30, z:113333] in the dimension 0
+[22:13:54] [Server thread/INFO] [tombstone]: lugoflen has successfully been saved
+[22:13:58] [Server thread/DEBUG] [FML]: The world 6f4df35b (world) may have leaked: seen 525 times.
+
+[22:13:58] [Server thread/DEBUG] [FML]: The world 2639ec52 (world) may have leaked: seen 525 times.
+
+[22:13:58] [Server thread/DEBUG] [FML]: The world 2092ba0d (world) may have leaked: seen 525 times.
+
+[22:14:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Given [Ender Pearl] * 1 to lugoflen]
+[22:14:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:14:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lugoflen has reached the goal [Here They Come]
+[22:14:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lugoflen was slain by Zombie
+[22:14:27] [Server thread/INFO] [tombstone]: The last known grave of lugoflen is at location [name:Last Grave, x:112432, y:30, z:113333] in the dimension 0
+[22:14:27] [Server thread/INFO] [tombstone]: lugoflen has successfully been saved
+[22:14:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Set own game mode to Creative Mode]
+[22:14:48] [Server thread/DEBUG] [FML]: The world 6f4df35b (world) may have leaked: seen 530 times.
+
+[22:14:48] [Server thread/DEBUG] [FML]: The world 2639ec52 (world) may have leaked: seen 530 times.
+
+[22:14:48] [Server thread/DEBUG] [FML]: The world 2092ba0d (world) may have leaked: seen 530 times.
+
+[22:14:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:15:38] [Server thread/DEBUG] [FML]: The world 6f4df35b (world) may have leaked: seen 535 times.
+
+[22:15:38] [Server thread/DEBUG] [FML]: The world 2639ec52 (world) may have leaked: seen 535 times.
+
+[22:15:38] [Server thread/DEBUG] [FML]: The world 2092ba0d (world) may have leaked: seen 535 times.
+
+[22:15:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:16:28] [Server thread/DEBUG] [FML]: The world 6f4df35b (world) may have leaked: seen 540 times.
+
+[22:16:28] [Server thread/DEBUG] [FML]: The world 2639ec52 (world) may have leaked: seen 540 times.
+
+[22:16:28] [Server thread/DEBUG] [FML]: The world 2092ba0d (world) may have leaked: seen 540 times.
+
+[22:16:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
