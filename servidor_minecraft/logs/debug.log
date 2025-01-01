@@ -21436,3 +21436,118 @@
 
 [23:17:19] [Server thread/DEBUG] [FML]: The world 2092ba0d (world) may have leaked: seen 905 times.
 
+[23:17:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <lugoflen> q
+[23:17:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goku fell out of the world
+[23:17:52] [Server thread/INFO] [tombstone]: The last known grave of goku is at location [name:Last Grave, x:112562, y:69, z:113504] in the dimension 0
+[23:17:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KiritoUchiha999: Killed goku]
+[23:17:52] [Server thread/INFO] [tombstone]: goku has successfully been saved
+[23:17:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:18:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KiritoUchiha999: Teleported goku to KiritoUchiha999]
+[23:18:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KiritoUchiha999: Set goku's game mode to Creative Mode]
+[23:18:09] [Server thread/DEBUG] [FML]: The world 6f4df35b (world) may have leaked: seen 910 times.
+
+[23:18:09] [Server thread/DEBUG] [FML]: The world 2639ec52 (world) may have leaked: seen 910 times.
+
+[23:18:09] [Server thread/DEBUG] [FML]: The world 2092ba0d (world) may have leaked: seen 910 times.
+
+[23:18:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lugoflen has made the advancement [Mother of Dragons]
+[23:18:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:18:59] [Server thread/DEBUG] [FML]: The world 6f4df35b (world) may have leaked: seen 915 times.
+
+[23:18:59] [Server thread/DEBUG] [FML]: The world 2639ec52 (world) may have leaked: seen 915 times.
+
+[23:18:59] [Server thread/DEBUG] [FML]: The world 2092ba0d (world) may have leaked: seen 915 times.
+
+[23:19:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:19:49] [Server thread/DEBUG] [FML]: The world 6f4df35b (world) may have leaked: seen 920 times.
+
+[23:19:49] [Server thread/DEBUG] [FML]: The world 2639ec52 (world) may have leaked: seen 920 times.
+
+[23:19:49] [Server thread/DEBUG] [FML]: The world 2092ba0d (world) may have leaked: seen 920 times.
+
+[23:19:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KiritoUchiha999: Set goku's game mode to Survival Mode]
+[23:20:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:20:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KiritoUchiha999: Set goku's game mode to Creative Mode]
+[23:20:39] [Server thread/DEBUG] [FML]: The world 6f4df35b (world) may have leaked: seen 925 times.
+
+[23:20:39] [Server thread/DEBUG] [FML]: The world 2639ec52 (world) may have leaked: seen 925 times.
+
+[23:20:39] [Server thread/DEBUG] [FML]: The world 2092ba0d (world) may have leaked: seen 925 times.
+
+[23:20:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KiritoUchiha999: Set the time to 1000]
+[23:20:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KiritoUchiha999 has made the advancement [Appliance City]
+[23:20:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:21:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KiritoUchiha999 has made the advancement [Get Yourself Cleaned Up]
+[23:21:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KiritoUchiha999 has made the advancement [Constipated]
+[23:21:29] [Server thread/DEBUG] [FML]: The world 6f4df35b (world) may have leaked: seen 930 times.
+
+[23:21:29] [Server thread/DEBUG] [FML]: The world 2639ec52 (world) may have leaked: seen 930 times.
+
+[23:21:29] [Server thread/DEBUG] [FML]: The world 2092ba0d (world) may have leaked: seen 930 times.
+
+[23:21:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:21:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KiritoUchiha999 has made the advancement [Research Time]
+[23:22:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KiritoUchiha999 has made the advancement [Bingo! Dino DNA!]
+[23:22:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goku has made the advancement [Bingo! Dino DNA!]
+[23:22:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Given [Iron Pickaxe] * 1 to lugoflen]
+[23:22:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Given [Iron Pickaxe] * 1 to goku]
+[23:22:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Given [Iron Pickaxe] * 1 to KiritoUchiha999]
+[23:22:19] [Server thread/DEBUG] [FML]: The world 6f4df35b (world) may have leaked: seen 935 times.
+
+[23:22:19] [Server thread/DEBUG] [FML]: The world 2639ec52 (world) may have leaked: seen 935 times.
+
+[23:22:19] [Server thread/DEBUG] [FML]: The world 2092ba0d (world) may have leaked: seen 935 times.
+
+[23:22:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Given [Iron Pickaxe] * 1 to lugoflen]
+[23:22:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KiritoUchiha999 has made the advancement [The Crucible]
+[23:22:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:22:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Set own game mode to Survival Mode]
+[23:23:09] [Server thread/DEBUG] [FML]: The world 6f4df35b (world) may have leaked: seen 940 times.
+
+[23:23:09] [Server thread/DEBUG] [FML]: The world 2639ec52 (world) may have leaked: seen 940 times.
+
+[23:23:09] [Server thread/DEBUG] [FML]: The world 2092ba0d (world) may have leaked: seen 940 times.
+
+[23:23:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:23:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Set own game mode to Creative Mode]
+[23:23:59] [Server thread/DEBUG] [FML]: The world 6f4df35b (world) may have leaked: seen 945 times.
+
+[23:23:59] [Server thread/DEBUG] [FML]: The world 2639ec52 (world) may have leaked: seen 945 times.
+
+[23:23:59] [Server thread/DEBUG] [FML]: The world 2092ba0d (world) may have leaked: seen 945 times.
+
+[23:23:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:24:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:24:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lugoflen has made the advancement [Best Friends Forever]
+[23:24:49] [Server thread/DEBUG] [FML]: The world 6f4df35b (world) may have leaked: seen 950 times.
+
+[23:24:49] [Server thread/DEBUG] [FML]: The world 2639ec52 (world) may have leaked: seen 950 times.
+
+[23:24:49] [Server thread/DEBUG] [FML]: The world 2092ba0d (world) may have leaked: seen 950 times.
+
+[23:25:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:25:39] [Server thread/DEBUG] [FML]: The world 6f4df35b (world) may have leaked: seen 955 times.
+
+[23:25:39] [Server thread/DEBUG] [FML]: The world 2639ec52 (world) may have leaked: seen 955 times.
+
+[23:25:39] [Server thread/DEBUG] [FML]: The world 2092ba0d (world) may have leaked: seen 955 times.
+
+[23:25:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goku has made the advancement [Best Friends Forever]
+[23:26:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:26:29] [Server thread/DEBUG] [FML]: The world 6f4df35b (world) may have leaked: seen 960 times.
+
+[23:26:29] [Server thread/DEBUG] [FML]: The world 2639ec52 (world) may have leaked: seen 960 times.
+
+[23:26:29] [Server thread/DEBUG] [FML]: The world 2092ba0d (world) may have leaked: seen 960 times.
+
+[23:26:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goku has made the advancement [Dragonslayer]
+[23:26:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:27:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KiritoUchiha999 has made the advancement [The King]
+[23:27:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KiritoUchiha999 has made the advancement [Eggs!]
+[23:27:19] [Server thread/DEBUG] [FML]: The world 6f4df35b (world) may have leaked: seen 965 times.
+
+[23:27:19] [Server thread/DEBUG] [FML]: The world 2639ec52 (world) may have leaked: seen 965 times.
+
+[23:27:19] [Server thread/DEBUG] [FML]: The world 2092ba0d (world) may have leaked: seen 965 times.
+
+[23:27:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KiritoUchiha999 has made the advancement [Read all about it!]

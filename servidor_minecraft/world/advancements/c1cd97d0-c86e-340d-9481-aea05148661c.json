@@ -279,6 +279,12 @@
     },
     "done": true
   },
+  "cfm:bathroom": {
+    "criteria": {
+      "get_bathroom_furniture": "2025-01-01 23:21:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2025-01-01 22:04:25 +0000"
@@ -288,6 +294,12 @@
   "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
       "killed_ice_dragon": "2025-01-01 23:01:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:what_did_you_eat": {
+    "criteria": {
+      "player_fart": "2025-01-01 23:21:08 +0000"
     },
     "done": true
   },
@@ -354,6 +366,12 @@
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-01-01 22:38:40 +0000"
+    },
+    "done": true
+  },
+  "fossil:fossil/cultivate": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-01 23:22:28 +0000"
     },
     "done": true
   },
@@ -684,6 +702,12 @@
     },
     "done": true
   },
+  "fossil:fossil/analyzer": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-01 23:21:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-01-01 21:28:45 +0000"
@@ -879,6 +903,12 @@
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_log": "2025-01-01 21:32:05 +0000"
+    },
+    "done": true
+  },
+  "fossil:fossil/dna": {
+    "criteria": {
+      "dna": "2025-01-01 23:22:06 +0000"
     },
     "done": true
   },
@@ -1103,6 +1133,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2025-01-01 21:32:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:appliance_city": {
+    "criteria": {
+      "place_appliance": "2025-01-01 23:20:54 +0000"
     },
     "done": true
   },
