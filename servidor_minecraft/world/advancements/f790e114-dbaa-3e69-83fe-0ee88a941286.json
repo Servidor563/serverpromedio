@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2025-01-01 22:30:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-01-01 22:19:48 +0000"
@@ -152,6 +158,15 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-01-01 21:31:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-01-01 22:34:48 +0000",
+      "diamond_helmet": "2025-01-01 22:34:48 +0000",
+      "diamond_chestplate": "2025-01-01 22:34:48 +0000",
+      "diamond_boots": "2025-01-01 22:34:48 +0000"
     },
     "done": true
   },
@@ -341,6 +356,7 @@
       "apple": "2025-01-01 21:28:08 +0000",
       "potato": "2025-01-01 22:00:31 +0000",
       "mutton": "2025-01-01 21:29:34 +0000",
+      "beetroot": "2025-01-01 22:26:54 +0000",
       "cooked_chicken": "2025-01-01 21:36:27 +0000"
     },
     "done": false
@@ -408,6 +424,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 22:11:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2025-01-01 22:35:19 +0000"
     },
     "done": true
   },
@@ -516,6 +538,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-01 22:08:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "zombie_villager": "2025-01-01 22:29:40 +0000"
     },
     "done": true
   },
@@ -662,6 +690,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2025-01-01 21:24:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2025-01-01 22:30:31 +0000"
     },
     "done": true
   },
@@ -818,6 +852,18 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-01-01 22:19:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "zombie_villager": "2025-01-01 22:29:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2025-01-01 22:30:31 +0000"
     },
     "done": true
   },
