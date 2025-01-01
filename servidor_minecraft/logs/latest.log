@@ -389,3 +389,16 @@
 [21:25:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KiritoUchiha999 joined the game
 [21:25:08] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for KiritoUchiha999...
 [21:25:08] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to KiritoUchiha999
+[21:28:52] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[21:29:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KiritoUchiha999 has made the advancement [Stone Age]
+[21:30:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KiritoUchiha999 has made the advancement [Getting an Upgrade]
+[21:31:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goku has made the advancement [Getting an Upgrade]
+[21:32:49] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[21:33:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goku was slain by Hippogryph
+[21:33:43] [Server thread/INFO] [tombstone]: The last known grave of goku is at location [name:Last Grave, x:-58, y:68, z:-331] in the dimension 0
+[21:33:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goku has made the advancement [Your First Grave]
+[21:33:43] [Server thread/INFO] [tombstone]: goku has successfully been saved
+[21:33:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: goku moved wrongly!
+[21:34:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goku has made the advancement [Knowledge of Death]
+[21:34:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goku has reached the goal [Here They Come]
+[21:34:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goku has made the advancement [A Strange Grave's Dust]

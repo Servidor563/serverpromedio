@@ -19508,3 +19508,101 @@
 
 [21:26:25] [Server thread/DEBUG] [FML]: The world 2092ba0d (world) may have leaked: seen 240 times.
 
+[21:26:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:27:15] [Server thread/DEBUG] [FML]: The world 6f4df35b (world) may have leaked: seen 245 times.
+
+[21:27:15] [Server thread/DEBUG] [FML]: The world 2639ec52 (world) may have leaked: seen 245 times.
+
+[21:27:15] [Server thread/DEBUG] [FML]: The world 2092ba0d (world) may have leaked: seen 245 times.
+
+[21:27:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:28:05] [Server thread/DEBUG] [FML]: The world 6f4df35b (world) may have leaked: seen 250 times.
+
+[21:28:05] [Server thread/DEBUG] [FML]: The world 2639ec52 (world) may have leaked: seen 250 times.
+
+[21:28:05] [Server thread/DEBUG] [FML]: The world 2092ba0d (world) may have leaked: seen 250 times.
+
+[21:28:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:28:52] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[21:28:55] [Server thread/DEBUG] [FML]: The world 6f4df35b (world) may have leaked: seen 255 times.
+
+[21:28:55] [Server thread/DEBUG] [FML]: The world 2639ec52 (world) may have leaked: seen 255 times.
+
+[21:28:55] [Server thread/DEBUG] [FML]: The world 2092ba0d (world) may have leaked: seen 255 times.
+
+[21:29:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:29:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KiritoUchiha999 has made the advancement [Stone Age]
+[21:29:45] [Server thread/DEBUG] [FML]: The world 6f4df35b (world) may have leaked: seen 260 times.
+
+[21:29:45] [Server thread/DEBUG] [FML]: The world 2639ec52 (world) may have leaked: seen 260 times.
+
+[21:29:45] [Server thread/DEBUG] [FML]: The world 2092ba0d (world) may have leaked: seen 260 times.
+
+[21:29:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:30:35] [Server thread/DEBUG] [FML]: The world 6f4df35b (world) may have leaked: seen 265 times.
+
+[21:30:35] [Server thread/DEBUG] [FML]: The world 2639ec52 (world) may have leaked: seen 265 times.
+
+[21:30:35] [Server thread/DEBUG] [FML]: The world 2092ba0d (world) may have leaked: seen 265 times.
+
+[21:30:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:30:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KiritoUchiha999 has made the advancement [Getting an Upgrade]
+[21:31:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goku has made the advancement [Getting an Upgrade]
+[21:31:26] [Server thread/DEBUG] [FML]: The world 6f4df35b (world) may have leaked: seen 270 times.
+
+[21:31:26] [Server thread/DEBUG] [FML]: The world 2639ec52 (world) may have leaked: seen 270 times.
+
+[21:31:26] [Server thread/DEBUG] [FML]: The world 2092ba0d (world) may have leaked: seen 270 times.
+
+[21:31:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:32:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:32:16] [Server thread/DEBUG] [FML]: The world 6f4df35b (world) may have leaked: seen 275 times.
+
+[21:32:16] [Server thread/DEBUG] [FML]: The world 2639ec52 (world) may have leaked: seen 275 times.
+
+[21:32:16] [Server thread/DEBUG] [FML]: The world 2092ba0d (world) may have leaked: seen 275 times.
+
+[21:32:49] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[21:32:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:33:05] [Server thread/DEBUG] [FML]: The world 6f4df35b (world) may have leaked: seen 280 times.
+
+[21:33:05] [Server thread/DEBUG] [FML]: The world 2639ec52 (world) may have leaked: seen 280 times.
+
+[21:33:05] [Server thread/DEBUG] [FML]: The world 2092ba0d (world) may have leaked: seen 280 times.
+
+[21:33:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:33:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goku was slain by Hippogryph
+[21:33:43] [Server thread/INFO] [tombstone]: The last known grave of goku is at location [name:Last Grave, x:-58, y:68, z:-331] in the dimension 0
+[21:33:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goku has made the advancement [Your First Grave]
+[21:33:43] [Server thread/INFO] [tombstone]: goku has successfully been saved
+[21:33:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: goku moved wrongly!
+[21:33:56] [Server thread/DEBUG] [FML]: The world 6f4df35b (world) may have leaked: seen 285 times.
+
+[21:33:56] [Server thread/DEBUG] [FML]: The world 2639ec52 (world) may have leaked: seen 285 times.
+
+[21:33:56] [Server thread/DEBUG] [FML]: The world 2092ba0d (world) may have leaked: seen 285 times.
+
+[21:34:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:34:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goku has made the advancement [Knowledge of Death]
+[21:34:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goku has reached the goal [Here They Come]
+[21:34:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goku has made the advancement [A Strange Grave's Dust]
+[21:34:46] [Server thread/DEBUG] [FML]: The world 6f4df35b (world) may have leaked: seen 290 times.
+
+[21:34:46] [Server thread/DEBUG] [FML]: The world 2639ec52 (world) may have leaked: seen 290 times.
+
+[21:34:46] [Server thread/DEBUG] [FML]: The world 2092ba0d (world) may have leaked: seen 290 times.
+
+[21:35:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:35:35] [Server thread/DEBUG] [FML]: The world 6f4df35b (world) may have leaked: seen 295 times.
+
+[21:35:35] [Server thread/DEBUG] [FML]: The world 2639ec52 (world) may have leaked: seen 295 times.
+
+[21:35:36] [Server thread/DEBUG] [FML]: The world 2092ba0d (world) may have leaked: seen 295 times.
+
+[21:35:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:36:25] [Server thread/DEBUG] [FML]: The world 6f4df35b (world) may have leaked: seen 300 times.
+
+[21:36:25] [Server thread/DEBUG] [FML]: The world 2639ec52 (world) may have leaked: seen 300 times.
+
+[21:36:25] [Server thread/DEBUG] [FML]: The world 2092ba0d (world) may have leaked: seen 300 times.
+
