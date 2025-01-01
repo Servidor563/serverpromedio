@@ -402,3 +402,322 @@
 [21:34:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goku has made the advancement [Knowledge of Death]
 [21:34:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goku has reached the goal [Here They Come]
 [21:34:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goku has made the advancement [A Strange Grave's Dust]
+[21:36:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goku has made the advancement [Stone Age]
+[21:37:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goku has made the advancement [Sweet dreams]
+[21:38:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KiritoUchiha999 has made the advancement [Sweet dreams]
+[21:38:51] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[21:38:51] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 35 mods : minecraft@1.12.2,mclib@2.4.3,usefulbackpacks@1.5.4.85,astralsorcery@1.10.27,baubles@1.5.2,mca@6.0.1,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.15.0.293,rustic@1.1.7,roguelike@1.8.0,xaerominimap@24.2.0,mcp@9.42,camera@1.0.10,ctm@MC1.12.2-1.0.2.31,securitycraft@v1.9.10.2,artifacts@1.12.2-1.2.3,elevatorid@1.3.12,FML@8.0.99.99,tombstone@4.6.8,llibrary@1.7.20,uteamcore@2.2.5.212,cfm@6.3.0,chisel@MC1.12.2-1.0.2.45,fossil@8.0.5,xaerominimap_core@1.12.2-1.0,iceandfire@1.9.1,bookworm@1.12.2-2.5.2.1,tlauncher_custom_cape_skin@1.4,emoticons@1.1.2,fpsreducer@mc1.12.2-1.20,msic@1.0,forge@14.23.5.2859,codechickenlib@3.2.2.353,infernalmobs@1.7.6
+[21:38:51] [Netty Epoll Server IO #6/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[21:38:52] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:38:52] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: lugoflen[/127.201.7.82:41389] logged in with entity id 25435 at (42.5, 70.0, 119.5)
+[21:38:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lugoflen joined the game
+[21:38:52] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for lugoflen...
+[21:38:52] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to lugoflen
+[21:38:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lugoflen has made the advancement [Ice and Fire]
+[21:39:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: KiritoUchiha999 was kicked for floating too long!
+[21:39:26] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KiritoUchiha999 lost connection: Flying is not enabled on this server
+[21:39:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KiritoUchiha999 left the game
+[21:40:01] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[21:40:01] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 35 mods : minecraft@1.12.2,mclib@2.4.3,usefulbackpacks@1.5.4.85,astralsorcery@1.10.27,baubles@1.5.2,mca@6.0.1,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.15.0.293,rustic@1.1.7,roguelike@1.8.0,xaerominimap@24.2.0,mcp@9.42,camera@1.0.10,ctm@MC1.12.2-1.0.2.31,securitycraft@v1.9.10.2,artifacts@1.12.2-1.2.3,elevatorid@1.3.12,FML@8.0.99.99,tombstone@4.6.8,llibrary@1.7.20,uteamcore@2.2.5.212,cfm@6.3.0,chisel@MC1.12.2-1.0.2.45,fossil@8.0.5,xaerominimap_core@1.12.2-1.0,iceandfire@1.9.1,bookworm@1.12.2-2.5.2.1,tlauncher_custom_cape_skin@1.4,emoticons@1.1.2,fpsreducer@mc1.12.2-1.20,msic@1.0,forge@14.23.5.2860,codechickenlib@3.2.2.353,infernalmobs@1.7.6
+[21:40:01] [Netty Epoll Server IO #2/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[21:40:03] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:40:03] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: KiritoUchiha999[/127.20.171.192:37349] logged in with entity id 28175 at (-97.7484486652848, 62.073264324665075, -292.430380843882)
+[21:40:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KiritoUchiha999 joined the game
+[21:40:03] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for KiritoUchiha999...
+[21:40:03] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to KiritoUchiha999
+[21:40:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Game rule sendCommandFeedback has been updated to false
+[21:40:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Game rule sendCommandFeedback has been updated to true
+[21:41:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Game rule sendCommandFeedback has been updated to false
+[21:42:13] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
+[21:42:16] [Server thread/WARN] [mca]: No skin found for profession: `mca:bandit`. A random skin will be generated.
+[21:42:16] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[21:42:21] [Server thread/WARN] [mca]: No skin found for profession: `mca:bandit`. A random skin will be generated.
+[21:42:21] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [19, -16] in dimension 0 (overworld) while populating chunk [19, -13], causing cascading worldgen lag.
+[21:42:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:42:21] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [21, -16] in dimension 0 (overworld) while populating chunk [19, -13], causing cascading worldgen lag.
+[21:42:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:42:21] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [20, -16] in dimension 0 (overworld) while populating chunk [19, -13], causing cascading worldgen lag.
+[21:42:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:42:21] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [22, -17] in dimension 0 (overworld) while populating chunk [19, -13], causing cascading worldgen lag.
+[21:42:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:42:21] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [22, -16] in dimension 0 (overworld) while populating chunk [19, -13], causing cascading worldgen lag.
+[21:42:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:42:21] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [19, -17] in dimension 0 (overworld) while populating chunk [19, -13], causing cascading worldgen lag.
+[21:42:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:42:21] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [19, -18] in dimension 0 (overworld) while populating chunk [19, -13], causing cascading worldgen lag.
+[21:42:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:42:21] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [23, -16] in dimension 0 (overworld) while populating chunk [19, -13], causing cascading worldgen lag.
+[21:42:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:42:21] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [22, -15] in dimension 0 (overworld) while populating chunk [19, -13], causing cascading worldgen lag.
+[21:42:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:42:21] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [23, -15] in dimension 0 (overworld) while populating chunk [19, -13], causing cascading worldgen lag.
+[21:42:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:42:21] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [24, -15] in dimension 0 (overworld) while populating chunk [19, -13], causing cascading worldgen lag.
+[21:42:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:42:21] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [24, -16] in dimension 0 (overworld) while populating chunk [19, -13], causing cascading worldgen lag.
+[21:42:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:42:21] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [25, -15] in dimension 0 (overworld) while populating chunk [19, -13], causing cascading worldgen lag.
+[21:42:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:42:21] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [26, -15] in dimension 0 (overworld) while populating chunk [19, -13], causing cascading worldgen lag.
+[21:42:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:42:21] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [22, -14] in dimension 0 (overworld) while populating chunk [19, -13], causing cascading worldgen lag.
+[21:42:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:42:21] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [22, -13] in dimension 0 (overworld) while populating chunk [19, -13], causing cascading worldgen lag.
+[21:42:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:42:21] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [21, -15] in dimension 0 (overworld) while populating chunk [19, -13], causing cascading worldgen lag.
+[21:42:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:42:21] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [20, -15] in dimension 0 (overworld) while populating chunk [19, -13], causing cascading worldgen lag.
+[21:42:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:42:21] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
+[21:42:21] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[21:42:21] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [23, -17] in dimension 0 (overworld) while populating chunk [19, -13], causing cascading worldgen lag.
+[21:42:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:42:21] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [25, -16] in dimension 0 (overworld) while populating chunk [19, -13], causing cascading worldgen lag.
+[21:42:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:42:21] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [23, -14] in dimension 0 (overworld) while populating chunk [19, -13], causing cascading worldgen lag.
+[21:42:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:42:21] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [23, -13] in dimension 0 (overworld) while populating chunk [19, -13], causing cascading worldgen lag.
+[21:42:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:42:21] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [23, -18] in dimension 0 (overworld) while populating chunk [19, -13], causing cascading worldgen lag.
+[21:42:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:42:21] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [24, -17] in dimension 0 (overworld) while populating chunk [19, -13], causing cascading worldgen lag.
+[21:42:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:42:21] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [25, -17] in dimension 0 (overworld) while populating chunk [19, -13], causing cascading worldgen lag.
+[21:42:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:42:21] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [26, -16] in dimension 0 (overworld) while populating chunk [19, -13], causing cascading worldgen lag.
+[21:42:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:42:21] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [26, -17] in dimension 0 (overworld) while populating chunk [19, -13], causing cascading worldgen lag.
+[21:42:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:42:21] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [21, -17] in dimension 0 (overworld) while populating chunk [19, -13], causing cascading worldgen lag.
+[21:42:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:42:21] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [20, -17] in dimension 0 (overworld) while populating chunk [19, -13], causing cascading worldgen lag.
+[21:42:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:42:21] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [24, -14] in dimension 0 (overworld) while populating chunk [19, -13], causing cascading worldgen lag.
+[21:42:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:42:21] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [21, -14] in dimension 0 (overworld) while populating chunk [19, -13], causing cascading worldgen lag.
+[21:42:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:42:21] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [20, -14] in dimension 0 (overworld) while populating chunk [19, -13], causing cascading worldgen lag.
+[21:42:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:42:21] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
+[21:42:21] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[21:42:21] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [25, -14] in dimension 0 (overworld) while populating chunk [19, -13], causing cascading worldgen lag.
+[21:42:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:42:21] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [24, -13] in dimension 0 (overworld) while populating chunk [19, -13], causing cascading worldgen lag.
+[21:42:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:42:21] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [22, -18] in dimension 0 (overworld) while populating chunk [19, -13], causing cascading worldgen lag.
+[21:42:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:42:21] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [22, -12] in dimension 0 (overworld) while populating chunk [19, -13], causing cascading worldgen lag.
+[21:42:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:42:21] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [23, -12] in dimension 0 (overworld) while populating chunk [19, -13], causing cascading worldgen lag.
+[21:42:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:42:22] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [23, -19] in dimension 0 (overworld) while populating chunk [19, -13], causing cascading worldgen lag.
+[21:42:22] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:42:22] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [24, -18] in dimension 0 (overworld) while populating chunk [19, -13], causing cascading worldgen lag.
+[21:42:22] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:42:22] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [22, -19] in dimension 0 (overworld) while populating chunk [19, -13], causing cascading worldgen lag.
+[21:42:22] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:42:22] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
+[21:42:44] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
+[21:42:44] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[21:43:48] [Server thread/INFO] [mca]: Villager death: Zandra. Caused by: entity.EntityVillagerMCA.name. UUID: 42878db8-fac1-4f70-a680-f1d91d2415a7
+[21:43:51] [Server thread/INFO] [mca]: Villager death: Buford. Caused by: entity.EntityVillagerMCA.name. UUID: 12b9422e-0d57-4448-a4e7-c226154ad9e2
+[21:43:57] [Server thread/INFO] [mca]: Villager death: Donnie. Caused by: entity.EntityVillagerMCA.name. UUID: 5891718b-1b63-4188-845f-6ff0c41b70af
+[21:44:05] [Server thread/INFO] [mca]: Villager death: Charles. Caused by: entity.EntityVillagerMCA.name. UUID: 308fcc74-4787-4aca-b519-a93f0ea6cc08
+[21:44:22] [Server thread/INFO] [mca]: Villager death: Davida. Caused by: entity.EntityVillagerMCA.name. UUID: 1ea74b89-2e58-4688-ae8b-9013afd5493c
+[21:44:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KiritoUchiha999 was incinerated by a dragon
+[21:44:32] [Server thread/INFO] [tombstone]: The last known grave of KiritoUchiha999 is at location [name:Last Grave, x:178, y:64, z:-22] in the dimension 0
+[21:44:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KiritoUchiha999 has made the advancement [Your First Grave]
+[21:44:32] [Server thread/INFO] [tombstone]: KiritoUchiha999 has successfully been saved
+[21:44:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goku was turned into KFC by a dragon
+[21:44:45] [Server thread/INFO] [tombstone]: The last known grave of goku is at location [name:Last Grave, x:49, y:76, z:89] in the dimension 0
+[21:44:46] [Server thread/INFO] [tombstone]: goku has successfully been saved
+[21:44:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lugoflen was burnt to a crisp whilst fighting goku
+[21:44:46] [Server thread/INFO] [tombstone]: The last known grave of lugoflen is at location [name:Last Grave, x:40, y:77, z:83] in the dimension 0
+[21:44:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lugoflen has made the advancement [Your First Grave]
+[21:44:46] [Server thread/INFO] [tombstone]: lugoflen has successfully been saved
+[21:45:01] [Server thread/INFO] [mca]: Villager death: Stanton. Caused by: entity.EntityVillagerMCA.name. UUID: 73bec033-449d-43e4-92ae-9877980f3ced
+[21:45:35] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [15, 17] in dimension 0 (overworld) while populating chunk [15, 15], causing cascading worldgen lag.
+[21:45:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:45:35] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [15, 16] in dimension 0 (overworld) while populating chunk [15, 15], causing cascading worldgen lag.
+[21:45:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:45:35] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [15, 18] in dimension 0 (overworld) while populating chunk [15, 15], causing cascading worldgen lag.
+[21:45:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:45:35] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [15, 19] in dimension 0 (overworld) while populating chunk [15, 15], causing cascading worldgen lag.
+[21:45:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:45:35] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [15, 20] in dimension 0 (overworld) while populating chunk [15, 15], causing cascading worldgen lag.
+[21:45:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:45:35] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [15, 21] in dimension 0 (overworld) while populating chunk [15, 15], causing cascading worldgen lag.
+[21:45:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:45:35] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [16, 20] in dimension 0 (overworld) while populating chunk [15, 15], causing cascading worldgen lag.
+[21:45:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:45:35] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [16, 19] in dimension 0 (overworld) while populating chunk [15, 15], causing cascading worldgen lag.
+[21:45:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:45:35] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [17, 20] in dimension 0 (overworld) while populating chunk [15, 15], causing cascading worldgen lag.
+[21:45:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:45:35] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [17, 19] in dimension 0 (overworld) while populating chunk [15, 15], causing cascading worldgen lag.
+[21:45:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:45:35] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [18, 19] in dimension 0 (overworld) while populating chunk [15, 15], causing cascading worldgen lag.
+[21:45:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:45:35] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [18, 20] in dimension 0 (overworld) while populating chunk [15, 15], causing cascading worldgen lag.
+[21:45:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:45:35] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [14, 20] in dimension 0 (overworld) while populating chunk [15, 15], causing cascading worldgen lag.
+[21:45:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:45:35] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [14, 19] in dimension 0 (overworld) while populating chunk [15, 15], causing cascading worldgen lag.
+[21:45:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:45:35] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [16, 21] in dimension 0 (overworld) while populating chunk [15, 15], causing cascading worldgen lag.
+[21:45:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:45:35] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [15, 22] in dimension 0 (overworld) while populating chunk [15, 15], causing cascading worldgen lag.
+[21:45:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:45:35] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [15, 23] in dimension 0 (overworld) while populating chunk [15, 15], causing cascading worldgen lag.
+[21:45:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:45:35] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [14, 21] in dimension 0 (overworld) while populating chunk [15, 15], causing cascading worldgen lag.
+[21:45:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:45:35] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [14, 22] in dimension 0 (overworld) while populating chunk [15, 15], causing cascading worldgen lag.
+[21:45:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:45:35] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [14, 23] in dimension 0 (overworld) while populating chunk [15, 15], causing cascading worldgen lag.
+[21:45:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:45:35] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [13, 20] in dimension 0 (overworld) while populating chunk [15, 15], causing cascading worldgen lag.
+[21:45:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:45:35] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [12, 20] in dimension 0 (overworld) while populating chunk [15, 15], causing cascading worldgen lag.
+[21:45:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:45:35] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [13, 19] in dimension 0 (overworld) while populating chunk [15, 15], causing cascading worldgen lag.
+[21:45:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:45:35] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [12, 19] in dimension 0 (overworld) while populating chunk [15, 15], causing cascading worldgen lag.
+[21:45:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:45:35] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [19, 20] in dimension 0 (overworld) while populating chunk [15, 15], causing cascading worldgen lag.
+[21:45:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:45:35] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [20, 20] in dimension 0 (overworld) while populating chunk [15, 15], causing cascading worldgen lag.
+[21:45:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:45:35] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [11, 19] in dimension 0 (overworld) while populating chunk [15, 15], causing cascading worldgen lag.
+[21:45:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:45:35] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [13, 21] in dimension 0 (overworld) while populating chunk [15, 15], causing cascading worldgen lag.
+[21:45:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:45:35] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [12, 21] in dimension 0 (overworld) while populating chunk [15, 15], causing cascading worldgen lag.
+[21:45:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:45:35] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [10, 19] in dimension 0 (overworld) while populating chunk [15, 15], causing cascading worldgen lag.
+[21:45:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:45:35] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [11, 20] in dimension 0 (overworld) while populating chunk [15, 15], causing cascading worldgen lag.
+[21:45:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:45:35] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [13, 22] in dimension 0 (overworld) while populating chunk [15, 15], causing cascading worldgen lag.
+[21:45:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:45:35] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [12, 22] in dimension 0 (overworld) while populating chunk [15, 15], causing cascading worldgen lag.
+[21:45:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:45:35] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [11, 21] in dimension 0 (overworld) while populating chunk [15, 15], causing cascading worldgen lag.
+[21:45:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:45:35] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [10, 20] in dimension 0 (overworld) while populating chunk [15, 15], causing cascading worldgen lag.
+[21:45:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:45:35] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [17, 21] in dimension 0 (overworld) while populating chunk [15, 15], causing cascading worldgen lag.
+[21:45:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:45:35] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [16, 22] in dimension 0 (overworld) while populating chunk [15, 15], causing cascading worldgen lag.
+[21:45:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:45:35] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [17, 22] in dimension 0 (overworld) while populating chunk [15, 15], causing cascading worldgen lag.
+[21:45:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:45:36] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [13, 23] in dimension 0 (overworld) while populating chunk [15, 15], causing cascading worldgen lag.
+[21:45:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:45:36] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [9, 19] in dimension 0 (overworld) while populating chunk [15, 15], causing cascading worldgen lag.
+[21:45:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:45:36] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [16, 18] in dimension 0 (overworld) while populating chunk [15, 15], causing cascading worldgen lag.
+[21:45:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:45:36] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [16, 17] in dimension 0 (overworld) while populating chunk [15, 15], causing cascading worldgen lag.
+[21:45:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:45:36] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [10, 21] in dimension 0 (overworld) while populating chunk [15, 15], causing cascading worldgen lag.
+[21:45:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:45:36] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [11, 22] in dimension 0 (overworld) while populating chunk [15, 15], causing cascading worldgen lag.
+[21:45:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:45:36] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [10, 22] in dimension 0 (overworld) while populating chunk [15, 15], causing cascading worldgen lag.
+[21:45:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:45:37] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2271ms behind, skipping 45 tick(s)
+[21:45:37] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: KiritoUchiha999 moved too quickly! 6.651145737908436,0.7752370094690093,-7.719564792568406
+[21:45:45] [Server thread/INFO] [mca]: Villager death: Jacquiline. Caused by: entity.EntityVillagerMCA.name. UUID: 806ba8db-6e82-4f23-8463-b65785fc7158
+[21:46:14] [Server thread/INFO] [mca]: Villager death: Sherman. Caused by: entity.EntityVillagerMCA.name. UUID: a29f2eb8-5644-44d5-8c9a-9cfce5c36242
+[21:46:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ' false' is not true or false
+[21:47:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Opped lugoflen
+[21:47:20] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[21:47:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KiritoUchiha999> prende micro}
+[21:47:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of goku) moved too quickly! -7.618968086615041,0.0,6.530405471835934
+[21:47:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of goku) moved too quickly! -7.618968086615041,0.0,6.690247111307542
+[21:47:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of goku) moved too quickly! -7.618968086615041,0.0,6.848871769737286
+[21:47:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of goku) moved too quickly! -7.618968086615041,0.0,7.006344103613287
+[21:47:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of goku) moved too quickly! -7.618968086615041,0.0,7.1627793454183575
+[21:47:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of goku) moved too quickly! -7.618968086615041,0.0,7.318281204384391
+[21:47:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of goku) moved too quickly! -7.618968086615041,0.0,7.472885941782238
+[21:49:09] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: lugoflen lost connection: Disconnected
+[21:49:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lugoflen left the game
+[21:49:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KiritoUchiha999> zzzz
+[21:49:50] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[21:49:50] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 35 mods : minecraft@1.12.2,mclib@2.4.3,usefulbackpacks@1.5.4.85,astralsorcery@1.10.27,baubles@1.5.2,mca@6.0.1,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.15.0.293,rustic@1.1.7,roguelike@1.8.0,xaerominimap@24.2.0,mcp@9.42,camera@1.0.10,ctm@MC1.12.2-1.0.2.31,securitycraft@v1.9.10.2,artifacts@1.12.2-1.2.3,elevatorid@1.3.12,FML@8.0.99.99,tombstone@4.6.8,llibrary@1.7.20,uteamcore@2.2.5.212,cfm@6.3.0,chisel@MC1.12.2-1.0.2.45,fossil@8.0.5,xaerominimap_core@1.12.2-1.0,iceandfire@1.9.1,bookworm@1.12.2-2.5.2.1,tlauncher_custom_cape_skin@1.4,emoticons@1.1.2,fpsreducer@mc1.12.2-1.20,msic@1.0,forge@14.23.5.2859,codechickenlib@3.2.2.353,infernalmobs@1.7.6
+[21:49:50] [Netty Epoll Server IO #5/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[21:49:51] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:49:51] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: lugoflen[/127.201.7.82:51791] logged in with entity id 52593 at (-50.81743489318421, 73.0, 134.39792517683202)
+[21:49:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lugoflen joined the game
+[21:49:51] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for lugoflen...
+[21:49:51] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to lugoflen
+[21:50:06] [Server thread/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: /127.201.7.82:46395 lost connection: Disconnected
+[21:50:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Set own game mode to Creative Mode]
+[21:50:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Teleported lugoflen to 312.5, 72.0, -199.5]
+[21:50:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Set own game mode to Survival Mode]
+[21:50:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lugoflen burned to death
+[21:50:55] [Server thread/INFO] [tombstone]: The last known grave of lugoflen is at location [name:Last Grave, x:318, y:70, z:-198] in the dimension 0
+[21:50:55] [Server thread/INFO] [tombstone]: lugoflen has successfully been saved
+[21:51:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Teleported lugoflen to 312.5, 72.0, -199.5]
+[21:51:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Teleported KiritoUchiha999 to 312.5, 72.0, -199.5]
+[21:51:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Teleported goku to 312.5, 72.0, -199.5]
+[21:51:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KiritoUchiha999 was incinerated by a dragon
+[21:51:36] [Server thread/INFO] [tombstone]: The last known grave of KiritoUchiha999 is at location [name:Last Grave, x:302, y:71, z:-185] in the dimension 0
+[21:51:36] [Server thread/INFO] [tombstone]: KiritoUchiha999 has successfully been saved
+[21:51:40] [Server thread/INFO] [mca]: Villager death: Deeanna. Caused by: Unknown. UUID: e96d2934-e969-4982-9f46-5b6529fd97e8
+[21:51:42] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: goku moved wrongly!
+[21:51:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goku hit the ground too hard
+[21:51:43] [Server thread/INFO] [tombstone]: The last known grave of goku is at location [name:Last Grave, x:310, y:74, z:-202] in the dimension 0
+[21:51:43] [Server thread/INFO] [tombstone]: goku has successfully been saved
+[21:51:49] [Server thread/INFO] [mca]: Villager death: Karoline. Caused by: Unknown. UUID: 24376934-46a5-4540-9e31-27376af18cbf
+[21:51:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lugoflen has made the advancement [Isn't It Iron Pick]
+[21:51:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lugoflen has made the advancement [Acquire Hardware]
+[21:51:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lugoflen has made the advancement [Stone Age]
+[21:51:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lugoflen has reached the goal [Chain Death]
+[21:51:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lugoflen was turned into KFC by a dragon
+[21:51:56] [Server thread/INFO] [tombstone]: The last known grave of lugoflen is at location [name:Last Grave, x:302, y:70, z:-179] in the dimension 0
+[21:51:56] [Server thread/INFO] [tombstone]: lugoflen has successfully been saved
+[21:52:04] [Server thread/INFO] [mca]: Villager death: Latina. Caused by: Unknown. UUID: 24893c0a-e875-41a4-aaf7-5c8d71069fb3
+[21:52:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Given [Yellow Wool] * 1 to lugoflen]
+[21:52:39] [Netty Epoll Server IO #2/ERROR] [mca]: Career ID wasn't assigned for UUID: 24893c0a-e875-41a4-aaf7-5c8d71069fb3
+[21:52:39] [Netty Epoll Server IO #2/ERROR] [mca]: Career ID wasn't assigned for UUID: 24376934-46a5-4540-9e31-27376af18cbf
+[21:52:39] [Netty Epoll Server IO #2/ERROR] [mca]: Career ID wasn't assigned for UUID: e96d2934-e969-4982-9f46-5b6529fd97e8
+[21:53:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goku was incinerated by a dragon
+[21:53:07] [Server thread/INFO] [tombstone]: The last known grave of goku is at location [name:Last Grave, x:-246, y:86, z:303] in the dimension 0
+[21:53:07] [Server thread/INFO] [tombstone]: goku has successfully been saved
+[21:53:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goku has reached the goal [Chain Death]
+[21:53:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goku hit the ground too hard
+[21:53:53] [Server thread/INFO] [tombstone]: goku has successfully been saved
+[21:54:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Given [Ender Pearl] * 1 to lugoflen]
+[21:54:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Given [Ender Pearl] * 1 to lugoflen]
+[21:54:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Given [Ender Pearl] * 14 to lugoflen]
+[21:54:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lugoflen has made the advancement [The Most Useful Key]
+[21:54:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lugoflen was slain by Fire Dragon
+[21:54:38] [Server thread/INFO] [tombstone]: The last known grave of lugoflen is at location [name:Last Grave, x:30, y:69, z:130] in the dimension 0
+[21:54:38] [Server thread/INFO] [tombstone]: lugoflen has successfully been saved
+[21:54:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goku was slain by Fire Dragon
+[21:54:51] [Server thread/INFO] [tombstone]: goku has successfully been saved
+[21:54:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: goku moved wrongly!
+[21:54:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lugoflen has made the advancement [Knowledge of Death]
+[21:54:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lugoflen has reached the goal [A Fast Comeback]
+[21:55:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goku was incinerated by a dragon
+[21:55:12] [Server thread/INFO] [tombstone]: The last known grave of goku is at location [name:Last Grave, x:33, y:68, z:139] in the dimension 0
+[21:55:12] [Server thread/INFO] [tombstone]: goku has successfully been saved
+[21:55:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goku was slain by Fire Dragon
+[21:55:24] [Server thread/INFO] [tombstone]: goku has successfully been saved
+[21:55:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goku was slain by Fire Dragon
+[21:55:37] [Server thread/INFO] [tombstone]: goku has successfully been saved
+[21:55:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goku was incinerated by a dragon
+[21:55:47] [Server thread/INFO] [tombstone]: The last known grave of goku is at location [name:Last Grave, x:79, y:69, z:119] in the dimension 0
+[21:55:47] [Server thread/INFO] [tombstone]: goku has successfully been saved
+[21:55:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goku was incinerated by a dragon
+[21:55:57] [Server thread/INFO] [tombstone]: goku has successfully been saved
+[21:56:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Teleported KiritoUchiha999 to goku]
+[21:56:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goku was incinerated by a dragon
+[21:56:15] [Server thread/INFO] [tombstone]: The last known grave of goku is at location [name:Last Grave, x:37, y:70, z:125] in the dimension 0
+[21:56:15] [Server thread/INFO] [tombstone]: goku has successfully been saved
+[21:56:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Teleported lugoflen to lugoflen]
+[21:56:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Teleported goku to lugoflen]
+[21:56:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Teleported KiritoUchiha999 to lugoflen]
+[21:56:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KiritoUchiha999 has made the advancement [Acquire Hardware]

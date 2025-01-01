@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-01-01 21:37:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2025-01-01 21:29:31 +0000"
@@ -17,15 +23,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-01-01 21:36:58 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/first_knowledge": {
     "criteria": {
       "coded_trigger": "2025-01-01 21:34:28 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-01-01 21:37:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2025-01-01 21:29:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-01-01 21:37:11 +0000"
     },
     "done": true
   },
@@ -59,6 +83,18 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-01-01 21:36:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-01-01 21:36:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2025-01-01 21:29:31 +0000"
@@ -67,9 +103,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "swampland": "2025-01-01 21:39:29 +0000",
       "birch_forest": "2025-01-01 21:28:56 +0000",
       "plains": "2025-01-01 21:24:21 +0000",
       "birch_forest_hills": "2025-01-01 21:32:06 +0000",
+      "extreme_hills": "2025-01-01 21:47:37 +0000",
       "roofed_forest": "2025-01-01 21:25:54 +0000",
       "river": "2025-01-01 21:28:55 +0000"
     },
@@ -84,6 +122,18 @@
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2025-01-01 21:29:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-01 21:37:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-01-01 21:37:11 +0000"
     },
     "done": true
   },
@@ -129,9 +179,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-01-01 21:36:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-01-01 21:37:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-01-01 21:29:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-01-01 21:36:58 +0000"
     },
     "done": true
   },
@@ -153,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-01-01 21:36:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-01 21:28:20 +0000"
@@ -168,6 +242,18 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-01-01 21:28:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-01-01 21:37:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-01-01 21:36:10 +0000"
     },
     "done": true
   },
@@ -195,9 +281,21 @@
     },
     "done": true
   },
+  "tombstone:tutorial/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-01-01 21:53:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2025-01-01 21:24:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-01-01 21:37:11 +0000"
     },
     "done": true
   },
@@ -210,6 +308,24 @@
   "minecraft:recipes/redstone/wooden_button": {
     "criteria": {
       "has_planks": "2025-01-01 21:28:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-01-01 21:36:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-01-01 21:37:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-01-01 21:36:58 +0000"
     },
     "done": true
   },
@@ -249,6 +365,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-01-01 21:37:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-01-01 21:37:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2025-01-01 21:28:20 +0000"
@@ -257,8 +385,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-01-01 21:51:14 +0000",
       "apple": "2025-01-01 21:28:08 +0000",
-      "mutton": "2025-01-01 21:29:34 +0000"
+      "mutton": "2025-01-01 21:29:34 +0000",
+      "cooked_chicken": "2025-01-01 21:36:27 +0000"
     },
     "done": false
   },
@@ -268,15 +398,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-01-01 21:36:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-01-01 21:37:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-01-01 21:29:31 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2025-01-01 21:42:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-01 21:28:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-01-01 21:36:58 +0000"
     },
     "done": true
   },
@@ -295,6 +449,12 @@
   "tombstone:tutorial/first_grave": {
     "criteria": {
       "coded_trigger": "2025-01-01 21:33:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-01-01 21:37:11 +0000"
     },
     "done": true
   },
@@ -322,6 +482,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-01-01 21:37:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-01-01 21:28:26 +0000"
@@ -343,6 +509,24 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2025-01-01 21:29:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-01-01 21:36:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-01-01 21:37:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-01-01 21:37:11 +0000"
     },
     "done": true
   }
