@@ -1299,3 +1299,5 @@
 [23:34:49] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: lugoflen lost connection: Disconnected
 [23:34:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lugoflen left the game
 [23:35:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goku has made the advancement [Hot Stuff]
+[23:38:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: goku lost connection: Disconnected
+[23:38:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goku left the game
