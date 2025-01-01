@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-01 22:59:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 21:51:53 +0000"
@@ -397,10 +403,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "ice_flats": "2025-01-01 23:04:06 +0000",
+      "frozen_river": "2025-01-01 23:04:05 +0000",
       "forest": "2025-01-01 22:55:55 +0000",
       "forest_hills": "2025-01-01 22:07:14 +0000",
       "plains": "2025-01-01 21:38:52 +0000",
-      "roofed_forest": "2025-01-01 21:48:46 +0000"
+      "taiga_cold": "2025-01-01 23:03:37 +0000",
+      "roofed_forest": "2025-01-01 21:48:46 +0000",
+      "river": "2025-01-01 23:04:04 +0000"
     },
     "done": false
   },
