@@ -931,3 +931,54 @@
 [22:14:27] [Server thread/INFO] [tombstone]: The last known grave of lugoflen is at location [name:Last Grave, x:112432, y:30, z:113333] in the dimension 0
 [22:14:27] [Server thread/INFO] [tombstone]: lugoflen has successfully been saved
 [22:14:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Set own game mode to Creative Mode]
+[22:17:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Set own game mode to Survival Mode]
+[22:17:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Teleported lugoflen to KiritoUchiha999]
+[22:18:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KiritoUchiha999 was slain by Zombie
+[22:18:36] [Server thread/INFO] [tombstone]: The last known grave of KiritoUchiha999 is at location [name:Last Grave, x:112401, y:10, z:113301] in the dimension 0
+[22:18:36] [Server thread/INFO] [tombstone]: KiritoUchiha999 has successfully been saved
+[22:19:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goku has made the advancement [ZE ICE AGE!!!]
+[22:19:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lugoflen has made the advancement [A Strange Grave's Dust]
+[22:19:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lugoflen was slain by Zombie
+[22:19:40] [Server thread/INFO] [tombstone]: The last known grave of lugoflen is at location [name:Last Grave, x:112365, y:11, z:113324] in the dimension 0
+[22:19:40] [Server thread/INFO] [tombstone]: lugoflen has successfully been saved
+[22:19:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goku has made the advancement [Diamonds!]
+[22:19:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Given [Ender Pearl] * 1 to lugoflen]
+[22:20:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lugoflen was slain by Zombie
+[22:20:14] [Server thread/INFO] [tombstone]: The last known grave of lugoflen is at location [name:Last Grave, x:112365, y:10, z:113328] in the dimension 0
+[22:20:14] [Server thread/INFO] [tombstone]: lugoflen has successfully been saved
+[22:20:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Given [Ender Pearl] * 1 to lugoflen]
+[22:20:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Teleported KiritoUchiha999 to lugoflen]
+[22:20:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KiritoUchiha999 tried to swim in lava to escape Husk
+[22:20:45] [Server thread/INFO] [tombstone]: The last known grave of KiritoUchiha999 is at location [name:Last Grave, x:112362, y:10, z:113328] in the dimension 0
+[22:20:45] [Server thread/INFO] [tombstone]: KiritoUchiha999 has successfully been saved
+[22:20:53] [Server thread/INFO] [mca]: Villager death: Barbara-Anne. Caused by: Unknown. UUID: e6807b56-53c4-4731-ae02-954fb8c3f18f
+[22:20:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lugoflen was slain by Zombie
+[22:20:56] [Server thread/INFO] [tombstone]: The last known grave of lugoflen is at location [name:Last Grave, x:112366, y:11, z:113324] in the dimension 0
+[22:20:56] [Server thread/INFO] [tombstone]: lugoflen has successfully been saved
+[22:21:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Given [Ender Pearl] * 1 to lugoflen]
+[22:21:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lugoflen was slain by Zombie
+[22:21:14] [Server thread/INFO] [tombstone]: The last known grave of lugoflen is at location [name:Last Grave, x:112366, y:11, z:113324] in the dimension 0
+[22:21:14] [Server thread/INFO] [tombstone]: lugoflen has successfully been saved
+[22:21:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Given [Ender Pearl] * 1 to lugoflen]
+[22:21:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Opped KiritoUchiha999]
+[22:21:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Set own game mode to Creative Mode]
+[22:23:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KiritoUchiha999: Teleported KiritoUchiha999 to 112360.5, 8.5, 113328.5]
+[22:23:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KiritoUchiha999 tried to swim in lava
+[22:23:26] [Server thread/INFO] [tombstone]: KiritoUchiha999 has successfully been saved
+[22:23:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KiritoUchiha999: Teleported KiritoUchiha999 to 112360.5, 7.5, 113328.5]
+[22:24:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KiritoUchiha999 has reached the goal [Chain Death]
+[22:24:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KiritoUchiha999 was slain by Spider
+[22:24:22] [Server thread/INFO] [tombstone]: The last known grave of KiritoUchiha999 is at location [name:Last Grave, x:112392, y:10, z:113326] in the dimension 0
+[22:24:22] [Server thread/INFO] [tombstone]: KiritoUchiha999 has successfully been saved
+[22:24:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KiritoUchiha999: Teleported KiritoUchiha999 to 112401.5, 10.5, 113301.5]
+[22:24:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KiritoUchiha999: Teleported KiritoUchiha999 to 112392.5, 10.5, 113325.5]
+[22:24:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KiritoUchiha999 was slain by Spider
+[22:24:54] [Server thread/INFO] [tombstone]: The last known grave of KiritoUchiha999 is at location [name:Last Grave, x:112379, y:10, z:113331] in the dimension 0
+[22:24:54] [Server thread/INFO] [tombstone]: KiritoUchiha999 has successfully been saved
+[22:24:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KiritoUchiha999: Teleported KiritoUchiha999 to 112379.5, 10.5, 113333.5]
+[22:25:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Given [Diamond Sword] * 1 to lugoflen]
+[22:25:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KiritoUchiha999 was slain by Zombie
+[22:25:10] [Server thread/INFO] [tombstone]: The last known grave of KiritoUchiha999 is at location [name:Last Grave, x:112379, y:10, z:113334] in the dimension 0
+[22:25:10] [Server thread/INFO] [tombstone]: KiritoUchiha999 has successfully been saved
+[22:25:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Given [Diamond Sword] * 1 to lugoflen]
+[22:25:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lugoflen: Given [Diamond Sword] * 1 to lugoflen]
