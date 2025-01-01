@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-01-01 23:10:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-01-01 21:51:55 +0000"
@@ -53,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-01-01 23:09:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-01-01 21:55:01 +0000"
@@ -83,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-01-01 23:10:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 21:51:53 +0000"
@@ -104,6 +122,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2025-01-01 22:09:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-01-01 23:10:43 +0000"
     },
     "done": true
   },
@@ -179,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-01-01 23:10:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-01-01 22:01:21 +0000"
@@ -224,6 +254,12 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-01-01 22:56:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-01-01 23:10:43 +0000"
     },
     "done": true
   },
@@ -311,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-01-01 23:09:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 21:51:53 +0000"
@@ -326,6 +368,12 @@
   "tombstone:tutorial/root": {
     "criteria": {
       "auto": "2025-01-01 21:38:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-01-01 23:09:06 +0000"
     },
     "done": true
   },
@@ -405,9 +453,11 @@
     "criteria": {
       "ice_flats": "2025-01-01 23:04:06 +0000",
       "frozen_river": "2025-01-01 23:04:05 +0000",
+      "taiga_cold_hills": "2025-01-01 23:09:01 +0000",
       "forest": "2025-01-01 22:55:55 +0000",
       "forest_hills": "2025-01-01 22:07:14 +0000",
       "plains": "2025-01-01 21:38:52 +0000",
+      "ice_mountains": "2025-01-01 23:10:13 +0000",
       "taiga_cold": "2025-01-01 23:03:37 +0000",
       "roofed_forest": "2025-01-01 21:48:46 +0000",
       "river": "2025-01-01 23:04:04 +0000"
@@ -441,6 +491,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 21:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-01-01 23:10:43 +0000"
     },
     "done": true
   },
@@ -546,9 +602,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-01-01 23:09:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2025-01-01 21:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-01-01 23:09:06 +0000"
     },
     "done": true
   },
